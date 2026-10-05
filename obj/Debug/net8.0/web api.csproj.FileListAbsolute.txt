@@ -1,0 +1,42 @@
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.AssemblyInfoInputs.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.AssemblyInfo.cs
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.csproj.CoreCompileInputs.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.RazorAssemblyInfo.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.RazorAssemblyInfo.cs
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\appsettings.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\Data\polls.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.staticwebassets.runtime.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.staticwebassets.endpoints.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.exe
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.deps.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.runtimeconfig.json
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.dll
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\web api.pdb
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\klg\source\repos\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.csproj.AssemblyReference.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\scopedcss\bundle\web api.styles.css
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\scopedcss\projectbundle\web api.bundle.scp.css
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets\msbuild.web api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets\msbuild.web api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets\msbuild.build.web api.props
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web api.props
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web api.props
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.csproj.Up2Date
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.dll
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\refint\web api.dll
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.pdb
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\web api.genruntimeconfig.cache
+C:\Users\klg\source\repos\web api\obj\Debug\net8.0\ref\web api.dll
